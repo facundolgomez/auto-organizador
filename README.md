@@ -6,7 +6,7 @@ Este script en Bash organiza automáticamente archivos en carpetas según su tip
 
 -Bash instalado
 
-#Instrucciones de uso ▶
+# Instrucciones de uso ▶
 -Dar permisos de ejecución al archivo con chmod +x autoOrganizador.sh
 
 -Moverse al directorio donde se encuentran los archivos a organizar ---> cd /ruta/del/directorio
